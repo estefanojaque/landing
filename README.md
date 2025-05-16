@@ -1,5 +1,5 @@
 # LandingPage
-** MANAGECores **
+** MANAGECORES **
 Integrantes:  
 - Harold Miguel Elias Sanchez u202212684
 - Meneses Arevalo Victor Manuel u202212191
